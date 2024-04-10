@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny-lombok/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny-hutool/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny-01/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny-02/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny-03/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny-04/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny-05/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny-06/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny-rabbit/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny-07/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny-08/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-tiny-stream/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

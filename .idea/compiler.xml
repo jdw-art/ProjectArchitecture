@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mall-tiny-mybatis" />
+        <module name="mall-tiny-stream" />
+        <module name="mall-tiny-rabbit" />
+        <module name="mall-tiny-hutool" />
+        <module name="mall-tiny-redis" />
+        <module name="mall-tiny" />
+        <module name="mall-tiny-lombok" />
+        <module name="mall-tiny-01" />
+        <module name="mall-tiny-02" />
+        <module name="tiny" />
+        <module name="mall-tiny-03" />
+        <module name="mall-tiny-04" />
+        <module name="mall-tiny-05" />
+        <module name="mall-tiny-swagger" />
+        <module name="mall-tiny-06" />
+        <module name="mall-tiny-07" />
+        <module name="mall-tiny-08" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mall-tiny" options="-parameters" />
+      <module name="mall-tiny-01" options="-parameters" />
+      <module name="mall-tiny-02" options="-parameters" />
+      <module name="mall-tiny-03" options="-parameters" />
+      <module name="mall-tiny-04" options="-parameters" />
+      <module name="mall-tiny-05" options="-parameters" />
+      <module name="mall-tiny-06" options="-parameters" />
+      <module name="mall-tiny-07" options="-parameters" />
+      <module name="mall-tiny-08" options="-parameters" />
+      <module name="mall-tiny-hutool" options="-parameters" />
+      <module name="mall-tiny-lombok" options="-parameters" />
+      <module name="mall-tiny-mybatis" options="-parameters" />
+      <module name="mall-tiny-rabbit" options="-parameters" />
+      <module name="mall-tiny-redis" options="-parameters" />
+      <module name="mall-tiny-stream" options="-parameters" />
+      <module name="mall-tiny-swagger" options="-parameters" />
+      <module name="tiny" options="-parameters" />
+    </option>
+  </component>
+</project>
